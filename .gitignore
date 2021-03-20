@@ -1,0 +1,7 @@
+*pyc
+*.html
+.coverage
+tests/cover
+.venv
+.tox
+*.egg-info
